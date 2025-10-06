@@ -19,7 +19,7 @@ app.use((req, res, next) => {
   next();
 });
 
-const KEITARO_URL = "https://origin.plumadetective.help/plumadetective-Policy";
+const KEITARO_URL = "https://origin.frostnwhirl.digital/frostnwhirlPolitics";
 
 function normalizeIp(ip) {
   if (!ip) return "";
